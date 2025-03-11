@@ -2,7 +2,6 @@
 
 A React application that allows financial managers to review and approve employee transactions with intuitive filtering and pagination.
 
-![Project Preview](https://via.placeholder.com/800x400?text=Transaction+Dashboard+Preview)
 
 ## Project Overview
 
